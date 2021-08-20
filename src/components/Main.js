@@ -28,7 +28,7 @@ class Main extends React.Component {
           }`}
           style={{ display: 'none' }}
         >
-          <h2 className="major">Intro</h2>
+          <h2 className="major">Intro To Anthony</h2>
           <span className="image main">
             <img src={pic01} alt="" />
           </span>
@@ -140,25 +140,33 @@ class Main extends React.Component {
           <ul className="icons">
             <li>
               <a
-                href="https://twitter.com/HuntaroSan"
+                href="https://twitter.com/naut_v"
                 className="icon fa-twitter"
               >
                 <span className="label">Twitter</span>
               </a>
             </li>
             <li>
-              <a href="https://codebushi.com" className="icon fa-facebook">
-                <span className="label">Facebook</span>
-              </a>
-            </li>
-            <li>
-              <a href="https://codebushi.com" className="icon fa-instagram">
+              <a
+                href="https://www.instagram.com/built_to_last_v2/"
+                className="icon fa-instagram"
+              >
                 <span className="label">Instagram</span>
               </a>
             </li>
             <li>
+              <a href="https://www.facebook.com/profile.php?id=100070715876208" className="icon fa-facebook">
+                <span className="label">Facebook</span>
+              </a>
+            </li>
+            <li>
+              <a href="https://www.linkedin.com/in/anthony-naut-a14b081b5/" className="icon fa-linkedin">
+                <span className="label">LinkedIn</span>
+              </a>
+            </li>
+            <li>
               <a
-                href="https://github.com/codebushi/gatsby-starter-dimension"
+                href="https://github.com/anthonynaut"
                 className="icon fa-github"
               >
                 <span className="label">GitHub</span>
@@ -182,3 +190,7 @@ Main.propTypes = {
 }
 
 export default Main
+
+//https://coolors.co/gradients
+//https://codebushi.com/gatsby-starters-and-themes/
+//  
