@@ -81,7 +81,7 @@ class Main extends React.Component {
 
           <p>
           Here one of my bigger projects that i'm proud of. It's a balisong tutorial site with a store(under developement).
-          for everything used here is the link to my <a href='https://github.com/anthonynaut/V2-Capstone'>github</a>
+          For everything used, here is the link to my <a href='https://github.com/anthonynaut/V2-Capstone'>github. </a>Feel free look at my other projects too.
           </p>
           <p>
       
