@@ -1,7 +1,6 @@
 import PropTypes from 'prop-types'
 import React from 'react'
 import pic01 from '../images/pic01.jpg'
-import pic02 from '../images/pic02.mp4'
 import pic03 from '../images/pic03.jpg'
 
 class Main extends React.Component {
@@ -73,7 +72,7 @@ class Main extends React.Component {
         >
           <h2 className="major">Work</h2>
           <span className="image main">
-            <img src={pic02} alt="" />
+          
           </span>
           
           <iframe width="560" height="315" src="https://www.youtube.com/embed/JprOmndVx8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
