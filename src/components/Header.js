@@ -60,7 +60,7 @@ const Header = props => (
     </nav>
   </header>
 )
-
+// gatsby develop to run dev site. 
 Header.propTypes = {
   onOpenArticle: PropTypes.func,
   timeout: PropTypes.bool,
